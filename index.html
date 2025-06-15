@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science Quiz Game</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="selection-container">
+        <h1>Select Class Level</h1>
+        <button id="class6-10">Class 6th to 10th</button>
+
+        
+        <button id="class11-12">Class 11th to 12th</button>
+    </div>
+
+    <div class="quiz-container" style="display: none;">
+        <h1>Science Quiz</h1>
+        <div id="score-area">Score: 0</div>
+        <div id="question-area">
+            <h2 id="question">Question text goes here</h2>
+            <div id="options" class="options-container">
+                <!-- Options will be loaded here by JavaScript -->
+            </div>
+        </div>
+        <button id="next-button">Next Question</button>
+        <div id="result-area" class="result-area">
+            <!-- Score and result will be shown here -->
+        </div>
+        <p class="footer-text">Made By Amit</p>
+    </div>
+
+    <script src="questions.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
