@@ -253,29 +253,154 @@ const questions6to10 = [
 
 const questions11to12 = [
     {
+        question: "Two identical charged spheres are suspended in equilibrium. If the charge on one is doubled, the angle between strings:",
+        options: ["A) Increases", "B) Decreases", "C) Remains the same", "D) Becomes zero"],
+        answer: "A) Increases"
+    },
+    {
+        question: "A particle is moving in a circular path with constant speed. The work done by centripetal force is:",
+        options: ["A) Maximum", "B) Zero", "C) Constant", "D) Infinite"],
+        answer: "B) Zero"
+    },
+    {
+        question: "The velocity of particle under SHM at mean position is:",
+        options: ["A) Minimum", "B) Zero", "C) Maximum", "D) Infinite"],
+        answer: "C) Maximum"
+    },
+    {
+        question: "The electric field at the center of a uniformly charged semicircular ring is:",
+        options: ["A) Zero", "B) Along axis", "C) Perpendicular to plane", "D) None of these"],
+        answer: "B) Along axis"
+    },
+    {
+        question: "Two capacitors of 6 µF and 3 µF are connected in series. Their equivalent capacitance is:",
+        options: ["A) 9 µF", "B) 2 µF", "C) 1 µF", "D) 4 µF"],
+        answer: "B) 2 µF"
+    },
+    {
         question: "The hybridization of carbon in ethyne is:",
         options: ["A) sp", "B) sp²", "C) sp³", "D) dsp²"],
         answer: "A) sp"
+    },    {
+        question: "A rod rotates in a uniform magnetic field. The induced emf depends on:",
+        options: ["A) Magnetic flux", "B) Area", "C) Angle", "D) Length and speed"],
+        answer: "D) Length and speed"
+    },
+    {
+        question: "A satellite is revolving around earth. Its total mechanical energy is:",
+        options: ["A) Positive", "B) Negative", "C) Zero", "D) Infinite"],
+        answer: "B) Negative"
+    },
+    {
+        question: "The dimensional formula of Planck's constant is:",
+        options: ["A) ML²T⁻¹", "B) MLT⁻²", "C) ML⁻²T", "D) MLT"],
+        answer: "A) ML²T⁻¹"
+    },
+    {
+        question: "Which of the following is path-dependent?",
+        options: ["A) Work", "B) Potential energy", "C) Kinetic energy", "D) All of these"],
+        answer: "A) Work"
+    },
+    {
+        question: "A long solenoid carries current. Magnetic field inside it is independent of:",
+        options: ["A) Length", "B) Radius", "C) Current", "D) Number of turns"],
+        answer: "B) Radius"
     },
     {
         question: "Which of the following is not an alkali metal?",
         options: ["A) Li", "B) Na", "C) Mg", "D) K"],
         answer: "C) Mg"
+    },    {
+        question: "Which of the following has the highest bond dissociation enthalpy?",
+        options: ["A) F₂", "B) Cl₂", "C) Br₂", "D) O₂"],
+        answer: "B) Cl₂"
+    },
+    {
+        question: "Which shows maximum resonance energy?",
+        options: ["A) Benzene", "B) Naphthalene", "C) Anthracene", "D) Phenol"],
+        answer: "A) Benzene"
+    },
+    {
+        question: "Ionisation energy order is:",
+        options: ["A) B < Be", "B) Be < B", "C) C < B", "D) N < O"],
+        answer: "A) B < Be"
+    },
+    {
+        question: "Which is most reactive towards electrophilic substitution?",
+        options: ["A) Nitrobenzene", "B) Toluene", "C) Benzene", "D) Chlorobenzene"],
+        answer: "B) Toluene"
     },
     {
         question: "Which compound shows tautomerism?",
         options: ["A) Ethanol", "B) Acetone", "C) Acetaldehyde", "D) Acetylacetone"],
         answer: "D) Acetylacetone"
+    },    {
+        question: "Which complex is low spin?",
+        options: ["A) [Fe(CN)₆]³⁻", "B) [FeF₆]³⁻", "C) [Fe(H₂O)₆]³⁺", "D) [FeCl₆]³⁻"],
+        answer: "A) [Fe(CN)₆]³⁻"
+    },
+    {
+        question: "Which has highest boiling point?",
+        options: ["A) CH₄", "B) C₂H₆", "C) CH₃OH", "D) CH₃Cl"],
+        answer: "C) CH₃OH"
+    },
+    {
+        question: "In a reaction A → B + C, the rate depends only on [A]. What is the order?",
+        options: ["A) Zero", "B) First", "C) Second", "D) Cannot be determined"],
+        answer: "B) First"
+    },
+    {
+        question: "Which pair is not isoelectronic?",
+        options: ["A) Na⁺, F⁻", "B) O²⁻, Mg²⁺", "C) Al³⁺, N³⁻", "D) Cl⁻, Ar"],
+        answer: "C) Al³⁺, N³⁻"
     },
     {
         question: "Which of the following is a strong acid?",
         options: ["A) CH₃COOH", "B) HCl", "C) NH₄⁺", "D) H₂CO₃"],
         answer: "B) HCl"
+    },    {
+        question: "Which of the following is the largest gland in the human body?",
+        options: ["A) Pancreas", "B) Liver", "C) Thyroid", "D) Adrenal"],
+        answer: "B) Liver"
+    },
+    {
+        question: "Maltase acts on:",
+        options: ["A) Maltose → Glucose", "B) Lactose → Glucose + Galactose", "C) Sucrose → Glucose + Fructose", "D) Cellulose → Glucose"],
+        answer: "A) Maltose → Glucose"
+    },
+    {
+        question: "Which hormone increases blood calcium levels?",
+        options: ["A) Calcitonin", "B) Insulin", "C) Parathormone", "D) Glucagon"],
+        answer: "C) Parathormone"
+    },
+    {
+        question: "Which type of immunity is provided by vaccination?",
+        options: ["A) Active artificial", "B) Passive artificial", "C) Active natural", "D) Passive natural"],
+        answer: "A) Active artificial"
     },
     {
         question: "Number of valence electrons in sulfur (S):",
         options: ["A) 2", "B) 4", "C) 6", "D) 8"],
         answer: "C) 6"
+    },    {
+        question: "Which protein is not a part of blood clotting?",
+        options: ["A) Fibrin", "B) Thrombin", "C) Heparin", "D) Prothrombin"],
+        answer: "C) Heparin"
+    },
+    {
+        question: "Which enzyme is used to join DNA fragments?",
+        options: ["A) DNA helicase", "B) DNA ligase", "C) DNA polymerase", "D) Nuclease"],
+        answer: "B) DNA ligase"
+    },
+    {
+        question: "Which one has the highest biological value of protein?",
+        options: ["A) Soybean", "B) Egg", "C) Fish", "D) Milk"],
+        answer: "B) Egg"
+    },
+    {
+        question: "A dihybrid cross gives F2 phenotypic ratio of:",
+        options: ["A) 3:1", "B) 1:2:1", "C) 9:3:3:1", "D) 1:1:1:1"],
+        answer: "C) 9:3:3:1"
     },
     {
         question: "Which element has the highest electronegativity?",
